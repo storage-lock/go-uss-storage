@@ -29,7 +29,7 @@ require (
 	github.com/rs/xid v1.6.0 // indirect
 	github.com/storage-lock/go-events v0.0.5 // indirect
 	github.com/storage-lock/go-storage-events v0.0.6 // indirect
-	github.com/storage-lock/go-storage-lock v0.0.6 // indirect
+	github.com/storage-lock/go-storage-lock v0.1.0 // indirect
 	github.com/storage-lock/go-utils v0.0.2 // indirect
 	github.com/tinylib/msgp v1.6.1 // indirect
 	github.com/zeebo/xxh3 v1.1.0 // indirect
